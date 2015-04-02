@@ -1,0 +1,10 @@
+{
+    "specversion": "v1-alpha", 
+    "name": "Redis App",
+    "id": "redis-app",
+    "appversion": "0.0.1",
+    "description": "Redis Application",
+    "graph": [
+        "redis-app"
+    ]
+}

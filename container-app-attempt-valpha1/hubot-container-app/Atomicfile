@@ -1,0 +1,8 @@
+{
+  "name": "Hubot",
+  "description": "Hubot using a redis brain",
+  "specversion": "v1-alpha",
+  "appversion": "2.8.18",
+  "graph": [ "fedora-redis-app", "hubot-app" ]
+}
+
